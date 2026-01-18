@@ -1,4 +1,4 @@
-🌐 #Kubernetes WebApp Deployment — End‑to‑End Project
+🌐 # Kubernetes WebApp Deployment — End‑to‑End Project
 Welcome to my Web Application Deployment Project using Docker + Kubernetes!
 This repository contains everything needed to build, package, and deploy a complete web application on a Kubernetes cluster.
 This project is designed to be easy to understand, even if you're new to Docker or Kubernetes.
