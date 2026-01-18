@@ -135,28 +135,6 @@ git push -u origin main
 
 ---
 
-## 🧪 Testing & Troubleshooting
-
-### Check Pod Logs
-
-```bash
-kubectl logs <pod-name>
-```
-
-### Restart a Pod
-
-```bash
-kubectl delete pod <pod-name>
-```
-
-### Describe Pod (Events & Errors)
-
-```bash
-kubectl describe pod <pod-name>
-```
-
----
-
 ## ✨ What You Learn From This Project
 
 ✔ Writing a Dockerfile
