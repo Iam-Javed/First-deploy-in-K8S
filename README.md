@@ -31,9 +31,6 @@ webapp-k8s/
 │── k8s/
 │   ├── deployment.yaml
 │   ├── service.yaml
-│   ├── ingress.yaml        # Optional
-│   ├── namespace.yaml      # Optional
-│   └── configmap.yaml      # Optional
 │
 │── webimg12.tar.gz         # Website source files
 │── README.md               # Project documentation
