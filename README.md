@@ -3,6 +3,9 @@
 Welcome to the **Web Application Deployment Project** using **Docker** and **Kubernetes** 🚀
 This repository contains everything needed to build, package, and deploy a complete web application on a Kubernetes cluster.
 
+<img width="1342" height="563" alt="image" src="https://github.com/user-attachments/assets/23d91e15-1e45-4530-94ac-9c4e723f8af6" />
+
+
 The project is beginner-friendly and designed to help you understand **Docker**, **Kubernetes**, and **basic DevOps workflows** step by step.
 
 ---
