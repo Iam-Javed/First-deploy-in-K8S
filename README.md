@@ -1,4 +1,4 @@
-# 🌐 Kubernetes Web Application Deployment — End-to-End Project
+# 🌐 Basic Kubernetes Web Application Deployment — Docker + K8S
 
 Welcome to the **Web Application Deployment Project** using **Docker** and **Kubernetes** 🚀
 This repository contains everything needed to build, package, and deploy a complete web application on a Kubernetes cluster.
