@@ -141,10 +141,15 @@ git push -u origin main
 ## ✨ What You Learn From This Project
 
 ✔ Writing a Dockerfile
+
 ✔ Packaging a website into a Docker image
+
 ✔ Deploying applications using Kubernetes
+
 ✔ Exposing applications using Kubernetes Services
+
 ✔ Pushing code to GitHub using SSH authentication
+
 ✔ Structuring real-world DevOps projects efficiently
 
 ---
