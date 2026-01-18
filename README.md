@@ -1,7 +1,3 @@
-Here is a clean, well-structured **README.md** created from your content, with clear headings and polished formatting. You can copy-paste this directly into your repository.
-
----
-
 # 🌐 Kubernetes Web Application Deployment — End-to-End Project
 
 Welcome to the **Web Application Deployment Project** using **Docker** and **Kubernetes** 🚀
